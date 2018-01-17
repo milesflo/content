@@ -1,0 +1,15 @@
+- [Content Folder](https://github.com/enkidevs/curriculum/tree/master/linux)
+- [Standards](https://github.com/enkidevs/curriculum/tree/master/linux)
+
+## Live Courses
+- [Data Manipulation](https://github.com/enkidevs/curriculum/tree/master/linux/data-manipulation)
+- [File Management](https://github.com/enkidevs/curriculum/tree/master/linux/file-management)
+- [Jobs And Processes Data Manipulation](https://github.com/enkidevs/curriculum/tree/master/linux/jobs-and-processes-data-manipulation)
+- [Networking](https://github.com/enkidevs/curriculum/tree/master/linux/networking)
+- [Networking And Security](https://github.com/enkidevs/curriculum/tree/master/linux/networking-and-security)
+- [Permissions Users](https://github.com/enkidevs/curriculum/tree/master/linux/permissions-users)
+- [Pipeline](https://github.com/enkidevs/curriculum/tree/master/linux/pipeline)
+- [Security](https://github.com/enkidevs/curriculum/tree/master/linux/security)
+- [System And Package Management](https://github.com/enkidevs/curriculum/tree/master/linux/system-and-package-management)
+- [Terminals Shells](https://github.com/enkidevs/curriculum/tree/master/linux/terminals-shells)
+- [User And File Management](https://github.com/enkidevs/curriculum/tree/master/linux/user-and-file-management)
